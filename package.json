@@ -1,0 +1,22 @@
+{
+  "name": "twilio-sms",
+  "version": "1.0.0",
+  "description": "Node js sample for sending SMS using twilio framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjskr01/twilio-sms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjskr01/twilio-sms/issues"
+  },
+  "homepage": "https://github.com/rjskr01/twilio-sms#readme",
+  "dependencies": {
+    "twilio": "^4.13.0"
+  }
+}
